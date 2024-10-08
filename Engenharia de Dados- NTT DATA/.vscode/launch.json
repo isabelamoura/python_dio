@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Executar Script Python",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/Engenharia de Dados- NTT DATA/Modulo 01/projeto01.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
